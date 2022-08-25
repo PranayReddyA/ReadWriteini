@@ -1,0 +1,13 @@
+C:\Root\Day8\ReadWriteini\obj\Debug\netcoreapp3.1\ReadWriteini.csprojAssemblyReference.cache
+C:\Root\Day8\ReadWriteini\obj\Debug\netcoreapp3.1\ReadWriteini.AssemblyInfoInputs.cache
+C:\Root\Day8\ReadWriteini\obj\Debug\netcoreapp3.1\ReadWriteini.AssemblyInfo.cs
+C:\Root\Day8\ReadWriteini\obj\Debug\netcoreapp3.1\ReadWriteini.csproj.CoreCompileInputs.cache
+C:\Root\Day8\ReadWriteini\bin\Debug\netcoreapp3.1\ReadWriteini.exe
+C:\Root\Day8\ReadWriteini\bin\Debug\netcoreapp3.1\ReadWriteini.deps.json
+C:\Root\Day8\ReadWriteini\bin\Debug\netcoreapp3.1\ReadWriteini.runtimeconfig.json
+C:\Root\Day8\ReadWriteini\bin\Debug\netcoreapp3.1\ReadWriteini.runtimeconfig.dev.json
+C:\Root\Day8\ReadWriteini\bin\Debug\netcoreapp3.1\ReadWriteini.dll
+C:\Root\Day8\ReadWriteini\bin\Debug\netcoreapp3.1\ReadWriteini.pdb
+C:\Root\Day8\ReadWriteini\obj\Debug\netcoreapp3.1\ReadWriteini.dll
+C:\Root\Day8\ReadWriteini\obj\Debug\netcoreapp3.1\ReadWriteini.pdb
+C:\Root\Day8\ReadWriteini\obj\Debug\netcoreapp3.1\ReadWriteini.genruntimeconfig.cache
